@@ -1,0 +1,34 @@
+_repo: Susan-Clegg-and-Her-Neighbors-Affairs_18987
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 18987-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Warner, Anne
+    aliases:
+    - French, Anne Warner
+    - French, Anne Richmond Warner
+    - French, Anna Richmond Warner
+    birthdate: 1869
+    deathdate: 1913
+    gutenberg_agent_id: '6279'
+    url: http://www.gutenberg.org/2009/agents/6279
+description: Mrs. Lathrop's love affair -- Old man Ely's proposal -- The wolf at Susan's
+  door -- A very superior man.
+gutenberg_issued: '2006-08-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18987'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Humorous stories'
+- !lcc 'PS'
+- !lcsh 'United States -- Social life and customs -- 20th century -- Fiction'
+tableOfContents: Mrs. Lathrop's love affair -- Old man Ely's proposal -- The wolf
+  at Susan's door -- A very superior man.
+title: Susan Clegg and Her Neighbors' Affairs
+url: http://www.gutenberg.org/ebooks/18987
