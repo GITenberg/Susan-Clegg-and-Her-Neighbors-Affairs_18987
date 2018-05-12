@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6279
 description: Mrs. Lathrop's love affair -- Old man Ely's proposal -- The wolf at Susan's
   door -- A very superior man.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18987#Susan-Clegg-and-Her-Neighbors-Affairs
 gutenberg_issued: '2006-08-04'
 gutenberg_type: Text
 identifiers:
